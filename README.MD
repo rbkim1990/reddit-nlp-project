@@ -1,4 +1,4 @@
-# Project 3: Reddit API and Natural Language Processing
+# Reddit API and Natural Language Processing
 
 ![Photo courtesy of @rawpixel on www.unleash.com](./images/laughing.jpg)
 _Browsing Reddit.com/r/Jokes during work is not recommended_
